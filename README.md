@@ -52,6 +52,7 @@ GOOGLE_API_KEY=your_actual_gemini_api_key_here
 ```
 [![Animation.gif](https://i.postimg.cc/vHqsyCSH/Animation.gif)](https://postimg.cc/zVgMS2r9)
 
+
 ## How to Run the App
 
 With your virtual environment active, launch the application by running:
